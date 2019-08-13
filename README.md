@@ -1,1 +1,2 @@
-chess 2019-2020
+# chess
+Website for the CHemical Engineering Student Society
